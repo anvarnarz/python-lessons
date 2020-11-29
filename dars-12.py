@@ -9,10 +9,10 @@ Muallif: Anvar Narzullaev
 
 Web sahifa: https://python.sariq.dev
 """
-# SintaxError
-# print ("Hello World!")
-# print("Hello World!")
-# # print("Assalom alaykum!")
+# SyntaxError
+print ("Hello World!")
+print("Hello World!")
+# print("Assalom alaykum!")
 
 #IndentationError
 # print("Hello World!")
